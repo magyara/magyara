@@ -1,18 +1,10 @@
 <h1 align="center">Ariel Magyar</h1>
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/ariel-magyar/">
-		<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-	</a>
-</p>
+<p align="center"><strong>Land-ho! You've stumbed across my project chest.</strong></p>
 
-<p align="center"><strong>Land-ho! You've stumbed across Ariel's project chest.</strong></p>
-
-<p align="center">🌱</p>
+<p align="center">				<img src="images/slowbro.png" alt="Recompiled Podcast" width="300px"></p>
 
 <p align="center"><strong>Let's see what treasures can be found here...</strong></p>
-
-<p align="center">🌱</p>
 
 ## Projects
 
